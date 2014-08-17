@@ -1,0 +1,9 @@
+name: twitter_text
+version: 0.0.1-dev
+authors:
+- Adam Singer <financeCoding@gmail.com>
+description: package for processing twitter text in dart
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dev_dependencies:
+  unittest: '>=0.10.1+2 <0.11.0'
